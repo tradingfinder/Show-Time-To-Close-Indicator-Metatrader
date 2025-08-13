@@ -97,10 +97,6 @@ This versatile indicator works on both MetaTrader 4 and MetaTrader 5 platforms, 
 - **Confirmation entries**: Wait for candle close before entering
 - **Risk management**: Exit before unfavorable candle closes
 
-## Screenshots
-
-*Add your chart screenshots here showing the indicator in different positions and timeframes*
-
 ## Compatibility
 
 | Platform | Version | Status |
